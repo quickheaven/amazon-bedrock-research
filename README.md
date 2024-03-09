@@ -1,1 +1,1 @@
-# amazon-bedrock-research
+# Amazon Bedrock Research
